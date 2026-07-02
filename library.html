@@ -1,55 +1,33 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NIYYAH Founder Library</title>
-  <style>
-    :root{--cream:#fbf6ee;--ivory:#fffaf3;--blush:#efd1c8;--olive:#8d9474;--cocoa:#45362e;--muted:#7c6f64;--line:rgba(69,54,46,.14);--shadow:0 18px 48px rgba(69,54,46,.11)}
-    *{box-sizing:border-box} body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;background:linear-gradient(145deg,var(--cream),#f7ebe2 55%,#eef0e4);color:var(--cocoa)}
-    main{max-width:1080px;margin:0 auto;padding:28px 16px 54px}.top{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:32px}.brand{font-weight:850;letter-spacing:.12em;text-decoration:none;color:var(--cocoa)}.pill{border:1px solid var(--line);border-radius:999px;padding:10px 14px;text-decoration:none;color:var(--cocoa);background:rgba(255,250,243,.7)}
-    h1{font-size:clamp(36px,7vw,68px);line-height:.96;margin:0 0 12px}.lead{font-size:18px;color:var(--muted);line-height:1.6;max-width:760px}.section{margin-top:30px}.section h2{font-size:23px;margin:0 0 14px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.card{border:1px solid rgba(255,255,255,.75);background:rgba(255,250,243,.72);box-shadow:var(--shadow);border-radius:24px;padding:20px;min-height:148px;text-decoration:none;color:var(--cocoa);display:flex;flex-direction:column;gap:11px}.tag{align-self:flex-start;border:1px solid var(--line);border-radius:999px;padding:6px 10px;font-size:12px;color:var(--olive);font-weight:800}.card strong{font-size:19px}.card span:last-child{color:var(--muted);line-height:1.45}
-    @media(max-width:760px){.grid{grid-template-columns:1fr}h1{font-size:42px}.top{align-items:flex-start;flex-direction:column}}
-  </style>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NIYYAH Founder Library</title>
+<style>
+:root{--cream:#fbf6ee;--ivory:#fffaf3;--olive:#8d9474;--cocoa:#45362e;--muted:#7c6f64;--line:rgba(69,54,46,.14);--shadow:0 18px 48px rgba(69,54,46,.11)}*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;background:linear-gradient(145deg,var(--cream),#f7ebe2 55%,#eef0e4);color:var(--cocoa)}main{max-width:1080px;margin:0 auto;padding:28px 16px 54px}.top{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:32px}.brand{font-weight:850;letter-spacing:.12em;text-decoration:none;color:var(--cocoa)}.pill{border:1px solid var(--line);border-radius:999px;padding:10px 14px;text-decoration:none;color:var(--cocoa);background:rgba(255,250,243,.7)}h1{font-size:clamp(36px,7vw,68px);line-height:.96;margin:0 0 12px}.lead{font-size:18px;color:var(--muted);line-height:1.6;max-width:760px}.section{margin-top:30px}.section h2{font-size:23px;margin:0 0 14px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.card{border:1px solid rgba(255,255,255,.75);background:rgba(255,250,243,.72);box-shadow:var(--shadow);border-radius:24px;padding:20px;min-height:148px;text-decoration:none;color:var(--cocoa);display:flex;flex-direction:column;gap:11px}.tag{align-self:flex-start;border:1px solid var(--line);border-radius:999px;padding:6px 10px;font-size:12px;color:var(--olive);font-weight:800}.card strong{font-size:19px}.card span:last-child{color:var(--muted);line-height:1.45}@media(max-width:760px){.grid{grid-template-columns:1fr}.top{align-items:flex-start;flex-direction:column}}
+</style>
 </head>
-<body>
-  <main>
-    <div class="top">
-      <a class="brand" href="./">NIYYAH</a>
-      <a class="pill" href="./">Back to Hub</a>
-    </div>
-    <h1>Founder Library</h1>
-    <p class="lead">Working links only. This page avoids fake folder links that cause 404s on GitHub Pages.</p>
-    <section class="section">
-      <h2>Product</h2>
-      <div class="grid">
-        <a class="card" href="https://niyyahhapp.github.io/niyyah-app/app/"><span class="tag">App</span><strong>Interactive App Preview</strong><span>Current web app preview.</span></a>
-        <a class="card" href="https://niyyahhapp.github.io/niyyah-app/auth/"><span class="tag">Auth</span><strong>Sign-in Preview</strong><span>Supabase/Google sign-in page.</span></a>
-        <a class="card" href="https://niyyahhapp.github.io/niyyah-app/"><span class="tag">Public</span><strong>App Public Hub</strong><span>Public GitHub Pages app repo landing page.</span></a>
-      </div>
-    </section>
-    <section class="section">
-      <h2>Waitlist + Marketing</h2>
-      <div class="grid">
-        <a class="card" href="https://niyyahhapp.github.io/niyyah-waitlist/"><span class="tag">Waitlist</span><strong>Waitlist Website</strong><span>Public waitlist landing page.</span></a>
-        <a class="card" href="https://niyyahhapp.github.io/niyyah-waitlist/carousel-kit.html"><span class="tag">Carousel</span><strong>Main Carousel Kit</strong><span>Saveable carousel slides.</span></a>
-        <a class="card" href="https://niyyahhapp.github.io/niyyah-waitlist/social-videos.html"><span class="tag">Video</span><strong>Social Videos</strong><span>Vertical video pages for screen recording.</span></a>
-        <a class="card" href="https://niyyahhapp.github.io/niyyah-waitlist/launch-video-16x9.html"><span class="tag">Launch</span><strong>16:9 Launch Video</strong><span>Landscape launch video page.</span></a>
-      </div>
-    </section>
-    <section class="section">
-      <h2>Docs In This Repo</h2>
-      <div class="grid">
-        <a class="card" href="docs/"><span class="tag">Index</span><strong>Docs Index</strong><span>Clean list of uploaded docs.</span></a>
-        <a class="card" href="NIYYAH_PRD_A_to_Z.md"><span class="tag">PRD</span><strong>Product Requirements</strong><span>A-to-Z product direction.</span></a>
-        <a class="card" href="NIYYAH_APP_STORE_LISTING_DRAFT.md"><span class="tag">Store</span><strong>App Store Listing Draft</strong><span>Listing copy and App Store notes.</span></a>
-        <a class="card" href="NIYYAH_BACKEND_LOGIN_PLAN.md"><span class="tag">Backend</span><strong>Backend Login Plan</strong><span>Auth and sync planning notes.</span></a>
-        <a class="card" href="NIYYAH_SECURITY_REVIEW_SETUP.md"><span class="tag">Security</span><strong>Security Review Setup</strong><span>Security review plan.</span></a>
-        <a class="card" href="NIYYAH_JUNE_30_LAUNCH_CHECKLIST.md"><span class="tag">Launch</span><strong>Launch Checklist</strong><span>Launch-readiness checklist.</span></a>
-        <a class="card" href="NIYYAH_HANDOFF_TO_NEW_CODEX_ACCOUNT_2026-06-28.md"><span class="tag">Handoff</span><strong>Codex Handoff</strong><span>Project handoff document.</span></a>
-        <a class="card" href="READ_ME_FIRST.md"><span class="tag">Read</span><strong>Read Me First</strong><span>Starter note for this repo.</span></a>
-      </div>
-    </section>
-  </main>
-</body>
-</html>
+<body><main>
+<div class="top"><a class="brand" href="./">NIYYAH</a><a class="pill" href="./">Back to Hub</a></div>
+<h1>Founder Library</h1><p class="lead">Working links only. This page avoids fake folder links that cause 404s on GitHub Pages.</p>
+<section class="section"><h2>Product</h2><div class="grid">
+<a class="card" href="https://niyyahhapp.github.io/niyyah-app/app/"><span class="tag">App</span><strong>Interactive App Preview</strong><span>Current web app preview.</span></a>
+<a class="card" href="https://niyyahhapp.github.io/niyyah-app/auth/"><span class="tag">Auth</span><strong>Sign-in Preview</strong><span>Supabase/Google sign-in page.</span></a>
+<a class="card" href="https://niyyahhapp.github.io/niyyah-app/"><span class="tag">Public</span><strong>App Public Hub</strong><span>Public GitHub Pages app repo landing page.</span></a>
+</div></section>
+<section class="section"><h2>Waitlist + Marketing</h2><div class="grid">
+<a class="card" href="https://niyyahhapp.github.io/niyyah-waitlist/"><span class="tag">Waitlist</span><strong>Waitlist Website</strong><span>Public waitlist landing page.</span></a>
+<a class="card" href="https://niyyahhapp.github.io/niyyah-waitlist/"><span class="tag">Carousel</span><strong>Carousel CTA</strong><span>Stable public traffic should go to the waitlist page.</span></a>
+<a class="card" href="https://niyyahhapp.github.io/niyyah-waitlist/"><span class="tag">Video</span><strong>Social Video CTA</strong><span>Use the waitlist as the live call-to-action link.</span></a>
+</div></section>
+<section class="section"><h2>Docs In This Repo</h2><div class="grid">
+<a class="card" href="docs/"><span class="tag">Index</span><strong>Docs Index</strong><span>Clean list of uploaded docs.</span></a>
+<a class="card" href="NIYYAH_PRD_A_to_Z.md"><span class="tag">PRD</span><strong>Product Requirements</strong><span>A-to-Z product direction.</span></a>
+<a class="card" href="NIYYAH_APP_STORE_LISTING_DRAFT.md"><span class="tag">Store</span><strong>App Store Listing Draft</strong><span>Listing copy and App Store notes.</span></a>
+<a class="card" href="NIYYAH_BACKEND_LOGIN_PLAN.md"><span class="tag">Backend</span><strong>Backend Login Plan</strong><span>Auth and sync planning notes.</span></a>
+<a class="card" href="NIYYAH_SECURITY_REVIEW_SETUP.md"><span class="tag">Security</span><strong>Security Review Setup</strong><span>Security review plan.</span></a>
+<a class="card" href="NIYYAH_JUNE_30_LAUNCH_CHECKLIST.md"><span class="tag">Launch</span><strong>Launch Checklist</strong><span>Launch-readiness checklist.</span></a>
+<a class="card" href="NIYYAH_HANDOFF_TO_NEW_CODEX_ACCOUNT_2026-06-28.md"><span class="tag">Handoff</span><strong>Codex Handoff</strong><span>Project handoff document.</span></a>
+<a class="card" href="READ_ME_FIRST.md"><span class="tag">Read</span><strong>Read Me First</strong><span>Starter note for this repo.</span></a>
+</div></section>
+</main></body></html>
