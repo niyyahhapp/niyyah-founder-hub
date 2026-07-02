@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NIYYAH Docs Index</title>
+  <style>
+    :root {
+      --cream: #fff8ed;
+      --blush: #efc3ca;
+      --peach: #f6c5a8;
+      --rose: #b96b75;
+      --olive: #737b5e;
+      --cocoa: #3f302c;
+      --clay: #7a5850;
+      --line: rgba(255,255,255,.74);
+      --glass: rgba(255,255,255,.56);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--cocoa);
+      font-family: ui-rounded, "SF Pro Rounded", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at 16% 8%, rgba(239,195,202,.38), transparent 28%),
+        radial-gradient(circle at 88% 24%, rgba(246,197,168,.30), transparent 30%),
+        linear-gradient(135deg, #fffaf1 0%, #ffefe7 54%, #f8ecd8 100%);
+    }
+    a { color: inherit; }
+    .page { width: min(1080px, 100%); margin: 0 auto; padding: 24px 18px 52px; }
+    .nav { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-bottom: 30px; }
+    .brand { text-decoration: none; font: 650 22px/1 ui-serif, Georgia, serif; letter-spacing: 1px; }
+    .pill { display: inline-flex; min-height: 42px; align-items: center; justify-content: center; padding: 0 16px; border-radius: 999px; text-decoration: none; font-weight: 850; background: rgba(255,255,255,.62); border: 1px solid var(--line); box-shadow: 0 12px 26px rgba(63,48,44,.08); }
+    h1, h2, p { margin: 0; }
+    .hero { display: grid; gap: 14px; padding-bottom: 28px; }
+    .eyebrow { color: rgba(185,107,117,.88); font-size: 11px; font-weight: 900; letter-spacing: 1.4px; text-transform: uppercase; }
+    h1 { max-width: 760px; font: 650 clamp(40px, 10vw, 72px)/.98 ui-serif, Georgia, serif; }
+    .hero p { max-width: 720px; color: rgba(122,88,80,.78); font-size: 18px; line-height: 1.55; }
+    .section { margin-top: 30px; }
+    .section h2 { margin-bottom: 14px; font: 650 clamp(28px, 6vw, 42px)/1 ui-serif, Georgia, serif; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(235px, 1fr)); gap: 14px; }
+    .card { min-height: 138px; padding: 18px; border-radius: 24px; text-decoration: none; background: var(--glass); border: 1px solid var(--line); box-shadow: 0 20px 46px rgba(63,48,44,.10); }
+    .card strong { display: block; font: 650 22px/1.08 ui-serif, Georgia, serif; }
+    .card span { display: block; margin-top: 10px; color: rgba(122,88,80,.78); font-size: 14px; line-height: 1.48; }
+    .tag { display: inline-flex; margin-bottom: 20px; padding: 7px 10px; border-radius: 999px; color: var(--olive); background: rgba(255,255,255,.62); font-size: 11px; font-weight: 900; letter-spacing: .5px; text-transform: uppercase; }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <nav class="nav">
+      <a class="brand" href="../">NIYYAH</a>
+      <a class="pill" href="../library.html">Full Library</a>
+    </nav>
+
+    <section class="hero">
+      <div class="eyebrow">Docs index</div>
+      <h1>NIYYAH documents, without the maze.</h1>
+      <p>Open the PRD, audit notes, launch checklist, security setup, scholarship materials, backend plan, and application tracker from one clean page.</p>
+    </section>
+
+    <section class="section">
+      <h2>Product + Engineering</h2>
+      <div class="grid">
+        <a class="card" href="NIYYAH_PRD_A_to_Z.md"><span class="tag">PRD</span><strong>Product Requirements</strong><span>A-to-Z product direction and app scope.</span></a>
+        <a class="card" href="NIYYAH_PRD_V3_FULL.md"><span class="tag">PRD v3</span><strong>Full PRD v3</strong><span>Social learning, circles, sharing, dua pulse, and growth features.</span></a>
+        <a class="card" href="NIYYAH_PRD_V3_ENGINEERING_NOTES.md"><span class="tag">Engineering</span><strong>PRD v3 Engineering Notes</strong><span>Implementation scope, gaps, and system notes.</span></a>
+        <a class="card" href="NIYYAH_BACKEND_LOGIN_PLAN.md"><span class="tag">Backend</span><strong>Login + Circles Plan</strong><span>Account, backend, study-circle, and sync plan.</span></a>
+        <a class="card" href="NIYYAH_SECURITY_REVIEW_SETUP.md"><span class="tag">Security</span><strong>Security Review Setup</strong><span>Security scanning and review setup notes.</span></a>
+        <a class="card" href="NIYYAH_DEBUG_AUDIT_REPORT.md"><span class="tag">Bugs</span><strong>Debug Audit Report</strong><span>Bug review and remaining technical notes.</span></a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Launch + Review</h2>
+      <div class="grid">
+        <a class="card" href="NIYYAH_PRELAUNCH_AUDIT_JUNE10.md"><span class="tag">Audit</span><strong>Pre-launch Audit</strong><span>Known status, test notes, and launch-readiness checks.</span></a>
+        <a class="card" href="NIYYAH_JUNE_30_LAUNCH_CHECKLIST.md"><span class="tag">Checklist</span><strong>June 30 Launch Checklist</strong><span>Launch tasks, App Store prep, and readiness notes.</span></a>
+        <a class="card" href="NIYYAH_SCHOOL_HANDOFF_JUNE24.md"><span class="tag">School</span><strong>School Handoff</strong><span>Teacher-friendly handoff and project status.</span></a>
+        <a class="card" href="NIYYAH_APP_STORE_LISTING_DRAFT.md"><span class="tag">Store</span><strong>App Store Listing Draft</strong><span>Listing copy, screenshots notes, and app description.</span></a>
+        <a class="card" href="NIYYAH_STRIPE_PAYMENT_LINKS_SETUP.md"><span class="tag">Stripe</span><strong>Payment Links Setup</strong><span>Payment-link notes and pricing setup.</span></a>
+        <a class="card" href="NIYYAH_MONETIZATION_SYSTEM_V1.md"><span class="tag">Revenue</span><strong>Monetization System v1</strong><span>Free core learning, Plus, support, and impact principles.</span></a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Marketing + Opportunities</h2>
+      <div class="grid">
+        <a class="card" href="NIYYAH_WAITLIST_MARKETING_SYSTEM.md"><span class="tag">Marketing</span><strong>Waitlist Marketing System</strong><span>Marketing strategy and first-signup plan.</span></a>
+        <a class="card" href="NIYYAH_DIGITAL_CITIZENSHIP_SCHOLARSHIP_PITCH.md"><span class="tag">Scholarship</span><strong>Digital Citizenship Pitch</strong><span>Canadian/Ontario scholarship framing.</span></a>
+        <a class="card" href="NIYYAH_DCLA_STEM_FELLOWSHIP_APPLICATION_NOTES.md"><span class="tag">DCLA</span><strong>DCLA Application Notes</strong><span>STEM Fellowship DCLA notes and pitch language.</span></a>
+        <a class="card" href="NIYYAH_OPPORTUNITIES_TRACKER.md"><span class="tag">Apply</span><strong>Opportunities Tracker</strong><span>Scholarships, startup programs, and competitions.</span></a>
+        <a class="card" href="NIYYAH_APPLICATION_PACK_READY_TO_SUBMIT.md"><span class="tag">Submit</span><strong>Ready-to-Apply Pack</strong><span>Copy-paste application answers.</span></a>
+        <a class="card" href="NIYYAH_APPLICATION_RESULTS_TRACKER.xlsx"><span class="tag">Tracker</span><strong>Application Results Spreadsheet</strong><span>Spreadsheet tracker for results and deadlines.</span></a>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
