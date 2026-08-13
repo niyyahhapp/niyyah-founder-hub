@@ -192,6 +192,10 @@ The existing 1320 x 2868 set is in:
 
 `outputs/NIYYAH-app-store-screenshots-v8-launch-style/iphone-6-9-1320x2868/`
 
+The Xcode target currently supports iPhone and iPad, so iPad screenshots are also required. The existing 2048 x 2732 set is in:
+
+`outputs/NIYYAH-private-hub-github-pages/app-store-assets/ipad-12-9-2048x2732/`
+
 Before submission, compare every image to the current native app. Replace any stale or imagined screen with a fresh simulator capture.
 
 ## Launch Content Schedule
@@ -295,18 +299,19 @@ Follower count is secondary.
 ### E. Complete App Store Connect
 
 1. Open Apps > Niyyah Quran Companion > Distribution > iOS App 1.0.
-2. Upload accurate 6.9-inch screenshots.
-3. Paste the final promotional text, description, and keywords from `APP_STORE_SUBMISSION_COPY.md`.
-4. Set Support URL to `https://niyyahhapp.github.io/niyyah-app/`.
-5. Set Privacy Policy URL to `https://niyyahhapp.github.io/niyyah-app/privacy.html`.
-6. Set copyright to `2026 Hibo Mohamed`.
-7. Set release to Manually release this version.
-8. Open App Information and complete the Age Rating and Content Rights questions truthfully.
-9. Set Primary Category to Education and Secondary Category to Reference.
-10. Open App Privacy and declare only what the submitted build actually sends off-device.
-11. Set the app price to Free.
-12. Under Availability, choose Specific Countries or Regions and exclude EU countries if that remains the chosen launch policy.
-13. Do not add the draft subscriptions to this submission.
+2. Upload accurate 6.9-inch iPhone screenshots at 1320 x 2868.
+3. Open the iPad screenshot tab and upload accurate 13-inch screenshots at 2048 x 2732.
+4. Paste the final promotional text, description, and keywords from `APP_STORE_SUBMISSION_COPY.md`.
+5. Set Support URL to `https://niyyahhapp.github.io/niyyah-app/`.
+6. Set Privacy Policy URL to `https://niyyahhapp.github.io/niyyah-app/privacy.html`.
+7. Set copyright to `2026 Hibo Mohamed`.
+8. Set release to Manually release this version.
+9. Open App Information and complete the Age Rating and Content Rights questions truthfully.
+10. Set Primary Category to Education and Secondary Category to Reference.
+11. Open App Privacy and declare only what the submitted build actually sends off-device.
+12. Set the app price to Free.
+13. Under Availability, choose Specific Countries or Regions and exclude EU countries if that remains the chosen launch policy.
+14. Do not add the draft subscriptions to this submission.
 
 ### F. App Privacy Answers For This Free Build
 
@@ -348,6 +353,7 @@ Ready in the project:
 - Build: `1`
 - Public Privacy, Terms, account deletion, Feedback, and Sources & Trust pages
 - 6.9-inch screenshot assets at the correct 1320 x 2868 dimensions
+- 13-inch iPad screenshot assets at the accepted 2048 x 2732 dimensions
 - Free-beta switch with purchase UI hidden
 
 Still requires human confirmation in Xcode/App Store Connect:
