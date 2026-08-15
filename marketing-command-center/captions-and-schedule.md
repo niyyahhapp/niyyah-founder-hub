@@ -1,6 +1,6 @@
 # NIYYAH 30-Day Posting Schedule
 
-This campaign contains 90 carousel posts: three posts per day for 30 days.
+This campaign contains 90 five-slide carousel posts: three posts per day for 30 days.
 
 Primary link: https://niyyahhapp.github.io/niyyah-app/
 
