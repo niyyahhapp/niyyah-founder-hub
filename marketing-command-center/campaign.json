@@ -1,0 +1,722 @@
+[
+  {
+    "day": 1,
+    "post": 1,
+    "title": "NIYYAH is here.",
+    "caption": "NIYYAH is a calm Qur'an learning companion built for reading, understanding, reflection, and private Circles. The beta is free. Link in bio.",
+    "folder": "day-01-post-1",
+    "screen": "home"
+  },
+  {
+    "day": 1,
+    "post": 2,
+    "title": "Read less.\nUnderstand more.",
+    "caption": "You do not need to finish a whole surah today. Start with one ayah, understand what you can, and return gently.",
+    "folder": "day-01-post-2",
+    "screen": "overview"
+  },
+  {
+    "day": 1,
+    "post": 3,
+    "title": "Free means free.",
+    "caption": "The core Qur'an learning experience is free in NIYYAH's beta. No guilt, no fake urgency, and no paywall around understanding the Qur'an.",
+    "folder": "day-01-post-3",
+    "screen": "ayah"
+  },
+  {
+    "day": 2,
+    "post": 1,
+    "title": "You do not need\nan hour.",
+    "caption": "Busy day? Open the ayah you left, take one small action, and close with intention.",
+    "folder": "day-02-post-1",
+    "screen": "tafsir"
+  },
+  {
+    "day": 2,
+    "post": 2,
+    "title": "Context changes\nhow you read.",
+    "caption": "Context can change the way a surah opens up. NIYYAH begins with an overview and only shows reviewed revelation context where it is available.",
+    "folder": "day-02-post-2",
+    "screen": "reflect"
+  },
+  {
+    "day": 2,
+    "post": 3,
+    "title": "Listen without\nleaving the app.",
+    "caption": "Verified recitation stays inside the reading experience so you can listen without losing your place.",
+    "folder": "day-02-post-3",
+    "screen": "journal"
+  },
+  {
+    "day": 3,
+    "post": 1,
+    "title": "What if Qur'an study\nfelt less lonely?",
+    "caption": "NIYYAH Circles are private spaces for family, friends, classes, and MSAs. No public feed. No follower count. Just learning together.",
+    "folder": "day-03-post-1",
+    "screen": "progress"
+  },
+  {
+    "day": 3,
+    "post": 2,
+    "title": "Your family group chat,\nbut with intention.",
+    "caption": "One shared ayah can start a meaningful family conversation. Who would you invite first?",
+    "folder": "day-03-post-2",
+    "screen": "vocab"
+  },
+  {
+    "day": 3,
+    "post": 3,
+    "title": "MSA idea:",
+    "caption": "MSA challenge: choose one short surah, make a seven-day Circle, and check in together without rankings.",
+    "folder": "day-03-post-3",
+    "screen": "journey"
+  },
+  {
+    "day": 4,
+    "post": 1,
+    "title": "For a Qur'an app,\ntrust comes first.",
+    "caption": "A Qur'an app should tell you where its content comes from. NIYYAH keeps source material and educational tools clearly separated.",
+    "folder": "day-04-post-1",
+    "screen": "circles"
+  },
+  {
+    "day": 4,
+    "post": 2,
+    "title": "We would rather\nleave it out than guess.",
+    "caption": "Where attributed source tafsir is unavailable, NIYYAH leaves it out. It does not invent source tafsir or pretend an educational summary is one.",
+    "folder": "day-04-post-2",
+    "screen": "quiz"
+  },
+  {
+    "day": 4,
+    "post": 3,
+    "title": "Recitation should not\nbe generated.",
+    "caption": "Qur'an recitation in NIYYAH uses verified reciter audio, never a generic AI voice.",
+    "folder": "day-04-post-3",
+    "screen": "profile"
+  },
+  {
+    "day": 5,
+    "post": 1,
+    "title": "Some reflections\nare meant to stay private.",
+    "caption": "Your reflection does not have to become a post. NIYYAH's journal is private by default.",
+    "folder": "day-05-post-1",
+    "screen": "home"
+  },
+  {
+    "day": 5,
+    "post": 2,
+    "title": "One ayah.\nOne honest question.",
+    "caption": "Sometimes one honest question is enough to help an ayah stay with you.",
+    "folder": "day-05-post-2",
+    "screen": "overview"
+  },
+  {
+    "day": 5,
+    "post": 3,
+    "title": "Your spiritual notes\nare not content.",
+    "caption": "Private journals, duas, and reflections should be treated with care, not turned into engagement content.",
+    "folder": "day-05-post-3",
+    "screen": "ayah"
+  },
+  {
+    "day": 6,
+    "post": 1,
+    "title": "Do not just save words.\nReturn to them.",
+    "caption": "Save one Qur'anic word while you read, then return to it later. Small vocabulary growth adds up.",
+    "folder": "day-06-post-1",
+    "screen": "tafsir"
+  },
+  {
+    "day": 6,
+    "post": 2,
+    "title": "A quiz should reveal\nwhat to revisit.",
+    "caption": "NIYYAH quizzes are light understanding checks, not spiritual rankings.",
+    "folder": "day-06-post-2",
+    "screen": "reflect"
+  },
+  {
+    "day": 6,
+    "post": 3,
+    "title": "Follow a path\nwhen you feel stuck.",
+    "caption": "When you do not know where to begin, a guided Learning Journey gives you one clear next step.",
+    "folder": "day-06-post-3",
+    "screen": "journal"
+  },
+  {
+    "day": 7,
+    "post": 1,
+    "title": "Missing a day is not\nthe end.",
+    "caption": "Missed a day? You did not fail. NIYYAH is designed to help you continue without shame.",
+    "folder": "day-07-post-1",
+    "screen": "progress"
+  },
+  {
+    "day": 7,
+    "post": 2,
+    "title": "See progress without\nturning worship into a game.",
+    "caption": "Progress can be visible without becoming competitive. Keep a gentle record of what you have read, learned, and reflected on.",
+    "folder": "day-07-post-2",
+    "screen": "vocab"
+  },
+  {
+    "day": 7,
+    "post": 3,
+    "title": "Open. Continue.\nClose with intention.",
+    "caption": "NIYYAH brings you back to what matters: the ayah, the reflection, and the next small action.",
+    "folder": "day-07-post-3",
+    "screen": "journey"
+  },
+  {
+    "day": 8,
+    "post": 1,
+    "title": "Create a Circle\nin under a minute.",
+    "caption": "Create a Circle, choose a simple purpose, and invite people you trust.",
+    "folder": "day-08-post-1",
+    "screen": "circles"
+  },
+  {
+    "day": 8,
+    "post": 2,
+    "title": "A code is all\nthey need.",
+    "caption": "No audience needed. Share a private Circle code or QR invitation with the people you actually want to learn with.",
+    "folder": "day-08-post-2",
+    "screen": "quiz"
+  },
+  {
+    "day": 8,
+    "post": 3,
+    "title": "Accountability without\na leaderboard.",
+    "caption": "Accountability can sound like: 'our Circle showed up today.' It does not need a leaderboard.",
+    "folder": "day-08-post-3",
+    "screen": "profile"
+  },
+  {
+    "day": 9,
+    "post": 1,
+    "title": "I built the app\nI wanted to open.",
+    "caption": "I started building NIYYAH because I wanted a Qur'an app that felt calm, careful, and easy to return to.",
+    "folder": "day-09-post-1",
+    "screen": "home"
+  },
+  {
+    "day": 9,
+    "post": 2,
+    "title": "Built with Muslim\nstudents in mind.",
+    "caption": "NIYYAH is built for Muslim students, families, friends, teachers, and small groups trying to understand the Qur'an together.",
+    "folder": "day-09-post-2",
+    "screen": "overview"
+  },
+  {
+    "day": 9,
+    "post": 3,
+    "title": "Found something wrong?\nTell us directly.",
+    "caption": "If you find a typo, citation issue, bug, or unclear explanation, NIYYAH gives you a direct way to report it. Correction builds trust.",
+    "folder": "day-09-post-3",
+    "screen": "ayah"
+  },
+  {
+    "day": 10,
+    "post": 1,
+    "title": "This would usually\nbe five different apps.",
+    "caption": "Reading, context, reflection, vocabulary, progress, quizzes, journeys, and Circles in one calm learning companion. Free beta.",
+    "folder": "day-10-post-1",
+    "screen": "tafsir"
+  },
+  {
+    "day": 10,
+    "post": 2,
+    "title": "Choose your person.",
+    "caption": "Think of one person who would help you return to the Qur'an this week. Send this to them.",
+    "folder": "day-10-post-2",
+    "screen": "reflect"
+  },
+  {
+    "day": 10,
+    "post": 3,
+    "title": "Ready when you are.",
+    "caption": "NIYYAH is ready for its free beta: read, listen, understand, reflect, and learn with people you trust. Link in bio.",
+    "folder": "day-10-post-3",
+    "screen": "journal"
+  },
+  {
+    "day": 11,
+    "post": 1,
+    "title": "Your next step\nshould be obvious.",
+    "caption": "Open NIYYAH and continue where you left off. The dashboard brings your current ayah, saved words, and reflection back into view. Continue in one tap.",
+    "folder": "day-11-post-1",
+    "screen": "progress"
+  },
+  {
+    "day": 11,
+    "post": 2,
+    "title": "Before the ayah,\nmeet the surah.",
+    "caption": "Begin with context before moving into detail. Use the overview to notice themes and reviewed learning notes before reading. Start with the whole picture.",
+    "folder": "day-11-post-2",
+    "screen": "vocab"
+  },
+  {
+    "day": 11,
+    "post": 3,
+    "title": "A complete study flow\ninside one screen.",
+    "caption": "Read, listen, understand, and reflect. Move through one ayah without collecting a pile of open tabs. Try the full flow once.",
+    "folder": "day-11-post-3",
+    "screen": "journey"
+  },
+  {
+    "day": 12,
+    "post": 1,
+    "title": "Your best friend can be\nyour Qur'an Circle.",
+    "caption": "One shared goal can make returning easier. Create a private Circle for two people and begin with one short surah. Send the first invitation.",
+    "folder": "day-12-post-1",
+    "screen": "circles"
+  },
+  {
+    "day": 12,
+    "post": 2,
+    "title": "Family study can happen\nacross different cities.",
+    "caption": "A private Circle keeps the intention shared. Invite siblings, cousins, or parents and choose one small learning goal together. Bring your family together.",
+    "folder": "day-12-post-2",
+    "screen": "quiz"
+  },
+  {
+    "day": 12,
+    "post": 3,
+    "title": "A calmer way for\nclassrooms to learn.",
+    "caption": "Use a private Circle for a class, youth group, or MSA. Keep the group focused on reading, reflection, and shared progress without a public feed. Share this with an educator.",
+    "folder": "day-12-post-3",
+    "screen": "profile"
+  },
+  {
+    "day": 13,
+    "post": 1,
+    "title": "Do not just say\n'verified.' Show the source.",
+    "caption": "Trust grows when attribution is visible. NIYYAH separates source material from educational notes and explains its content approach. Open Sources & Trust.",
+    "folder": "day-13-post-1",
+    "screen": "home"
+  },
+  {
+    "day": 13,
+    "post": 2,
+    "title": "Correction is not\nembarrassing.",
+    "caption": "It is how a trustworthy Qur'an app improves. Users can report content issues, unclear wording, and broken citations directly. Tell us what needs attention.",
+    "folder": "day-13-post-2",
+    "screen": "overview"
+  },
+  {
+    "day": 13,
+    "post": 3,
+    "title": "A learning summary\nis not tafsir.",
+    "caption": "The difference should always be clear. Educational tools support study while attributed source tafsir remains separately labelled. Know what you are reading.",
+    "folder": "day-13-post-3",
+    "screen": "ayah"
+  },
+  {
+    "day": 14,
+    "post": 1,
+    "title": "Press play.\nStay with the ayah.",
+    "caption": "Recitation belongs inside the reading experience. Listen without being pushed into a separate browser or losing your place. Listen inside NIYYAH.",
+    "folder": "day-14-post-1",
+    "screen": "tafsir"
+  },
+  {
+    "day": 14,
+    "post": 2,
+    "title": "Pause should mean pause.",
+    "caption": "Audio controls should feel predictable. Stop, continue, or move to another ayah while the app keeps the reading flow clear. Read at your own pace.",
+    "folder": "day-14-post-2",
+    "screen": "reflect"
+  },
+  {
+    "day": 14,
+    "post": 3,
+    "title": "Listen and read\nside by side.",
+    "caption": "Let the recitation support careful attention. Arabic text, translation, and verified reciter audio stay connected in the ayah flow. Open one ayah with sound.",
+    "folder": "day-14-post-3",
+    "screen": "journal"
+  },
+  {
+    "day": 15,
+    "post": 1,
+    "title": "Reflection needs\nmore than one doorway.",
+    "caption": "Meaning, heart, action, and dua invite different kinds of thought. Choose a gentle prompt instead of facing an empty page. Pick the mode you need today.",
+    "folder": "day-15-post-1",
+    "screen": "progress"
+  },
+  {
+    "day": 15,
+    "post": 2,
+    "title": "Private by default.",
+    "caption": "Sharing should be a choice, never a pressure. Write a short reflection for yourself without posting it to an audience. Keep the moment yours.",
+    "folder": "day-15-post-2",
+    "screen": "vocab"
+  },
+  {
+    "day": 15,
+    "post": 3,
+    "title": "Your journal should help\nyou return, not perform.",
+    "caption": "Saved reflections stay organized by the learning moment. Revisit what an ayah brought up without turning the entry into social content. Return to an old reflection.",
+    "folder": "day-15-post-3",
+    "screen": "journey"
+  },
+  {
+    "day": 16,
+    "post": 1,
+    "title": "Save the word\nwhile it is in context.",
+    "caption": "Vocabulary begins inside the ayah. Keep meaningful Qur'anic words connected to the reading moment where you found them. Save one word.",
+    "folder": "day-16-post-1",
+    "screen": "circles"
+  },
+  {
+    "day": 16,
+    "post": 2,
+    "title": "Your own Qur'anic\nword collection.",
+    "caption": "Build a vocabulary list from what you actually read. Favorite important words and return to them without copying notes across apps. Build your first collection.",
+    "folder": "day-16-post-2",
+    "screen": "quiz"
+  },
+  {
+    "day": 16,
+    "post": 3,
+    "title": "Review should feel\nsmall enough to begin.",
+    "caption": "A few saved words can become a steady practice. Use short review moments to strengthen recognition over time. Review for two minutes.",
+    "folder": "day-16-post-3",
+    "screen": "profile"
+  },
+  {
+    "day": 17,
+    "post": 1,
+    "title": "A quiz is a mirror,\nnot a ranking.",
+    "caption": "Use it to notice what stayed with you. Short questions help reveal what you understood and what deserves another look. Check, then revisit.",
+    "folder": "day-17-post-1",
+    "screen": "home"
+  },
+  {
+    "day": 17,
+    "post": 2,
+    "title": "Wrong answer?\nReturn to the lesson.",
+    "caption": "Learning matters more than the score. NIYYAH keeps the next step connected to understanding instead of competition. Try the question again.",
+    "folder": "day-17-post-2",
+    "screen": "overview"
+  },
+  {
+    "day": 17,
+    "post": 3,
+    "title": "Finish with clarity.",
+    "caption": "Completion should point back to what you learned. A light completion moment helps close the session without turning study into hype. Complete one short quiz.",
+    "folder": "day-17-post-3",
+    "screen": "ayah"
+  },
+  {
+    "day": 18,
+    "post": 1,
+    "title": "When you do not know\nwhat to study next.",
+    "caption": "Choose a guided Learning Journey. Structured themes give you a clear starting point and a manageable next step. Choose a path.",
+    "folder": "day-18-post-1",
+    "screen": "tafsir"
+  },
+  {
+    "day": 18,
+    "post": 2,
+    "title": "Short sessions.\nA connected direction.",
+    "caption": "A Journey keeps separate learning moments moving together. Return to the theme without rebuilding your study plan every day. Continue the next step.",
+    "folder": "day-18-post-2",
+    "screen": "reflect"
+  },
+  {
+    "day": 18,
+    "post": 3,
+    "title": "Progress without\nrushing the meaning.",
+    "caption": "A Journey is a guide, not a race. Move at a pace that supports understanding and honest reflection. Take the time you need.",
+    "folder": "day-18-post-3",
+    "screen": "journal"
+  },
+  {
+    "day": 19,
+    "post": 1,
+    "title": "Strong days matter\neven after a pause.",
+    "caption": "Lifetime engagement should not disappear. NIYYAH keeps a gentle record of the days you showed up without shaming the days you did not. Return today.",
+    "folder": "day-19-post-1",
+    "screen": "progress"
+  },
+  {
+    "day": 19,
+    "post": 2,
+    "title": "Paused is not zero.",
+    "caption": "A missed day does not erase the relationship. Continue the ayah when you are ready instead of facing a punishment screen. Pick it back up gently.",
+    "folder": "day-19-post-2",
+    "screen": "vocab"
+  },
+  {
+    "day": 19,
+    "post": 3,
+    "title": "Your Circle showed up\nthis week.",
+    "caption": "Shared consistency can encourage without ranking. Notice group presence and small returns while keeping spirituality out of a leaderboard. Encourage the Circle.",
+    "folder": "day-19-post-3",
+    "screen": "journey"
+  },
+  {
+    "day": 20,
+    "post": 1,
+    "title": "Remember my place.",
+    "caption": "That should be the app's job. NIYYAH saves the current learning point so you can spend less time navigating back. Continue where you stopped.",
+    "folder": "day-20-post-1",
+    "screen": "circles"
+  },
+  {
+    "day": 20,
+    "post": 2,
+    "title": "Remember my Circle.",
+    "caption": "Return to the people you were learning with. Keep the last Circle and its shared purpose close to the home flow. Continue together.",
+    "folder": "day-20-post-2",
+    "screen": "quiz"
+  },
+  {
+    "day": 20,
+    "post": 3,
+    "title": "Remember my last action.",
+    "caption": "Read, reflected, listened, or made dua. A clear return point makes a small daily connection easier to repeat. Take the next action.",
+    "folder": "day-20-post-3",
+    "screen": "profile"
+  },
+  {
+    "day": 21,
+    "post": 1,
+    "title": "Start a Circle.",
+    "caption": "Name it for the reason you are gathering. Choose family, friends, campus, classroom, or creator-style learning and keep it private. Create yours.",
+    "folder": "day-21-post-1",
+    "screen": "home"
+  },
+  {
+    "day": 21,
+    "post": 2,
+    "title": "Join with a code.",
+    "caption": "No public profile search required. Enter a trusted invitation code and join the group you were actually invited to. Ask for the code.",
+    "folder": "day-21-post-2",
+    "screen": "overview"
+  },
+  {
+    "day": 21,
+    "post": 3,
+    "title": "Invite without\nbuilding an audience.",
+    "caption": "Private sharing fits private learning. Use the Circle invitation flow instead of asking people to follow another account. Invite one trusted person.",
+    "folder": "day-21-post-3",
+    "screen": "ayah"
+  },
+  {
+    "day": 22,
+    "post": 1,
+    "title": "Begin with intention.",
+    "caption": "A Circle session should know why it is meeting. Set a small purpose before opening the reading and reflection flow. Name the intention.",
+    "folder": "day-22-post-1",
+    "screen": "tafsir"
+  },
+  {
+    "day": 22,
+    "post": 2,
+    "title": "One shared prompt\ncan open a real discussion.",
+    "caption": "Keep the conversation close to the ayah. A short guided question helps the group begin without demanding a long post. Bring one thought to the Circle.",
+    "folder": "day-22-post-2",
+    "screen": "reflect"
+  },
+  {
+    "day": 22,
+    "post": 3,
+    "title": "Close with something\nyou can carry.",
+    "caption": "A session should end with a clear next step. Use a gentle check-in or shared goal to keep the learning connected after the screen closes. Choose the next return.",
+    "folder": "day-22-post-3",
+    "screen": "journal"
+  },
+  {
+    "day": 23,
+    "post": 1,
+    "title": "An MSA Circle does not\nneed another group chat.",
+    "caption": "It needs a focused learning space. Keep Qur'an reading, the shared goal, and check-ins together without unrelated noise. Send this to your MSA exec.",
+    "folder": "day-23-post-1",
+    "screen": "progress"
+  },
+  {
+    "day": 23,
+    "post": 2,
+    "title": "A classroom can learn\nwithout public pressure.",
+    "caption": "Private participation makes space for quieter students. Use a trusted group format for reading and reflection without likes or followers. Share with a teacher.",
+    "folder": "day-23-post-2",
+    "screen": "vocab"
+  },
+  {
+    "day": 23,
+    "post": 3,
+    "title": "A youth group challenge\ncan stay sincere.",
+    "caption": "Encourage return without turning worship into a contest. Choose a short Journey and celebrate completion without ranking participants. Plan a seven-day group.",
+    "folder": "day-23-post-3",
+    "screen": "journey"
+  },
+  {
+    "day": 24,
+    "post": 1,
+    "title": "Send an ayah\nwith intention.",
+    "caption": "Sometimes one verse brings someone to mind. Share the learning moment privately and let the recipient open the ayah in context. Think of one person.",
+    "folder": "day-24-post-1",
+    "screen": "circles"
+  },
+  {
+    "day": 24,
+    "post": 2,
+    "title": "A quiet family check-in.",
+    "caption": "Read. Reflect. Return. The group can notice that people showed up without demanding everyone write a long message. Keep it light and sincere.",
+    "folder": "day-24-post-2",
+    "screen": "quiz"
+  },
+  {
+    "day": 24,
+    "post": 3,
+    "title": "Distance does not have to\nend shared learning.",
+    "caption": "Family and friends can return from different places. A private Circle keeps one purpose visible across busy schedules and cities. Invite someone far away.",
+    "folder": "day-24-post-3",
+    "screen": "profile"
+  },
+  {
+    "day": 25,
+    "post": 1,
+    "title": "Five minutes between\nclasses can still count.",
+    "caption": "Open one ayah instead of waiting for a perfect hour. A small reading and reflection moment can fit inside an ordinary student day. Use the next five minutes.",
+    "folder": "day-25-post-1",
+    "screen": "home"
+  },
+  {
+    "day": 25,
+    "post": 2,
+    "title": "Listen on the commute.",
+    "caption": "Keep the ayah visible while verified recitation plays. Turn travel time into a calm return without leaving the app for audio. Take NIYYAH with you.",
+    "folder": "day-25-post-2",
+    "screen": "overview"
+  },
+  {
+    "day": 25,
+    "post": 3,
+    "title": "Busy season does not mean\nlosing the connection.",
+    "caption": "Reduce the size of the action, not its meaning. Continue one ayah, one word, or one reflection when your schedule is full. Choose the smallest return.",
+    "folder": "day-25-post-3",
+    "screen": "ayah"
+  },
+  {
+    "day": 26,
+    "post": 1,
+    "title": "Your journal is not\nanalytics content.",
+    "caption": "Private spiritual writing deserves stricter boundaries. NIYYAH's product principle is to measure actions without collecting the words you write privately. Privacy should be visible.",
+    "folder": "day-26-post-1",
+    "screen": "tafsir"
+  },
+  {
+    "day": 26,
+    "post": 2,
+    "title": "No public feed required.",
+    "caption": "Learning together does not need followers or likes. Circles are designed for invited groups and intentional participation. Keep the group trusted.",
+    "folder": "day-26-post-2",
+    "screen": "reflect"
+  },
+  {
+    "day": 26,
+    "post": 3,
+    "title": "Created an account?\nYou can request deletion.",
+    "caption": "Control should include a clear way to leave. The account area includes a user-facing deletion request flow for signed-in users. Know your choices.",
+    "folder": "day-26-post-3",
+    "screen": "journal"
+  },
+  {
+    "day": 27,
+    "post": 1,
+    "title": "The Qur'an text\nis not generated.",
+    "caption": "Sacred text should come from an established dataset. NIYYAH keeps Qur'an text separate from educational tools and never asks AI to rewrite it. Read the source commitment.",
+    "folder": "day-27-post-1",
+    "screen": "progress"
+  },
+  {
+    "day": 27,
+    "post": 2,
+    "title": "Translation needs\nattribution too.",
+    "caption": "The English wording is a translation, not the Qur'an itself. NIYYAH identifies translation sources so users can understand what they are reading. Check the attribution.",
+    "folder": "day-27-post-2",
+    "screen": "vocab"
+  },
+  {
+    "day": 27,
+    "post": 3,
+    "title": "Source tafsir:\nonly where available.",
+    "caption": "Coverage is expanding carefully, not pretending to be complete. If an attributed source passage has not been added, the app leaves the source section out. Transparency over appearance.",
+    "folder": "day-27-post-3",
+    "screen": "journey"
+  },
+  {
+    "day": 28,
+    "post": 1,
+    "title": "Why I built NIYYAH.",
+    "caption": "I wanted a calmer way to return to the Qur'an. The goal is not to replace teachers or scholars. It is to help people begin and stay connected. Follow the founder journey.",
+    "folder": "day-28-post-1",
+    "screen": "circles"
+  },
+  {
+    "day": 28,
+    "post": 2,
+    "title": "Building in public means\nshowing the corrections too.",
+    "caption": "Trust grows when mistakes are addressed clearly. NIYYAH invites content reports and product feedback instead of pretending the beta is finished. Help us improve.",
+    "folder": "day-28-post-2",
+    "screen": "quiz"
+  },
+  {
+    "day": 28,
+    "post": 3,
+    "title": "The beta is a promise\nto keep listening.",
+    "caption": "Real users will shape what deserves attention next. Feedback from students, families, teachers, and Circles matters more than adding random features. Test it honestly.",
+    "folder": "day-28-post-3",
+    "screen": "profile"
+  },
+  {
+    "day": 29,
+    "post": 1,
+    "title": "Beta testers wanted.",
+    "caption": "Especially the people who notice what others miss. Test reading, audio, sources, reflection, Circles, privacy, and accessibility, then report what breaks. Try to break the beta.",
+    "folder": "day-29-post-1",
+    "screen": "home"
+  },
+  {
+    "day": 29,
+    "post": 2,
+    "title": "MSAs and youth groups:\nhelp test Circles.",
+    "caption": "We need real group use, not only solo previews. Create a small private Circle and tell us where joining, check-ins, or shared learning feels confusing. Request a group test.",
+    "folder": "day-29-post-2",
+    "screen": "overview"
+  },
+  {
+    "day": 29,
+    "post": 3,
+    "title": "Found one unclear sentence?\nThat matters.",
+    "caption": "Content feedback is part of launch quality. Use Report a Content Issue so the team can trace the exact ayah and screen. Send the correction.",
+    "folder": "day-29-post-3",
+    "screen": "ayah"
+  },
+  {
+    "day": 30,
+    "post": 1,
+    "title": "Thirty days of showing\nwhat NIYYAH can become.",
+    "caption": "Now begin with one ayah. The free beta brings reading, listening, reflection, vocabulary, progress, Journeys, and Circles together. Open NIYYAH today.",
+    "folder": "day-30-post-1",
+    "screen": "tafsir"
+  },
+  {
+    "day": 30,
+    "post": 2,
+    "title": "Your first Circle only\nneeds two people.",
+    "caption": "You and someone who helps you return. Choose one short goal, share the invitation, and learn together without public pressure. Create the Circle.",
+    "folder": "day-30-post-2",
+    "screen": "reflect"
+  },
+  {
+    "day": 30,
+    "post": 3,
+    "title": "The invitation is open.",
+    "caption": "Understand the Qur'an together. Download the NIYYAH free beta, explore one ayah, and tell us what should improve next. Begin with intention.",
+    "folder": "day-30-post-3",
+    "screen": "journal"
+  }
+]
